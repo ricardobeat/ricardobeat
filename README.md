@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I’m Ricardo (@ricardobeat)
 
-<!--
-**ricardobeat/ricardobeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been working lately on:
 
-Here are some ideas to get you started:
+- 🐈 a javascript engine written from the ground up: [boomkat](https://github.com/ricardobeat/boomkat)
+- 📺 a native TUI framework inspired by BubbleTea: [milktea](https://github.com/ricardobeat/milktea)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+as well as other experiments like AI harnesses, desktop apps, game engines, audio, making apps for the ESP32, hardware hacks. Always trying to build something new.
+
+### About me:
+
+- 🟨 made a career in frontend/UX engineering
+- 🌎 built the flights platform for Booking.com
+- 🐝 I like small software
+- 🫐 I've started writing nearly all of my code in https://c3-lang.org
+- 📫 How to reach me: hello at ricar.do
