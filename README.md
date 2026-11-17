@@ -1,16 +1,19 @@
-👋 Hi, I’m Ricardo (@ricardobeat)
+Hi there!
 
-I've been working lately on:
+#### Currently working on
 
-- 🐈 a javascript engine written from the ground up: [boomkat](https://github.com/ricardobeat/boomkat)
-- 📺 a native TUI framework inspired by BubbleTea: [milktea](https://github.com/ricardobeat/milktea)
+- 🐈 [boomkat](https://github.com/ricardobeat/boomkat), a new javascript engine
+- 📺 [milktea](https://github.com/ricardobeat/milktea), a native TUI framework inspired by BubbleTea
 
 as well as other experiments like AI harnesses, desktop apps, game engines, audio, making apps for the ESP32, hardware hacks. Always trying to build something new.
 
-### About me:
+> 👉 If you're interested in adopting, sponsoring or otherwise supporting one of these projects please get in touch.
 
-- 🟨 made a career in frontend/UX engineering
+#### About me
+
+- 🟨 frontend/UX engineering background
 - 🌎 built the flights platform for Booking.com
 - 🐝 I like small software
 - 🫐 I've started writing nearly all of my code in https://c3-lang.org
-- 📫 How to reach me: hello at ricar.do
+
+Contacts: hello at ricar.do, or find me on [bluesky](https://bsky.app/profile/ricar.do) / [threads](https://www.threads.com/@iam.ricar.do)
